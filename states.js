@@ -15,7 +15,7 @@ const states = {
 
 console.log("=== PC stats ===");
 console.table(states);
-log("rodando...")
+log(`${JSON.stringify(states)}\n`)
 
 
 // Minha versão do Node não está limpando o terminal antes de imprimir a nova tabela
