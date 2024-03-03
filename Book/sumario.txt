@@ -1,0 +1,12 @@
+códigos escritos durante a leitura do livro "Aplicações web real time com Node.js" - casa dos códigos
+
+-- Sumário:
+    -- A: Berm vindo ao Node.js:
+        -  A1 - CommonJs, como ele funciona?
+
+    -- B: Desenvolvendo aplicações web
+        -  B1 - Criando nossa primeira aplicaçõa web
+        -  B2 - Como funciona um servidor http?
+        -  B3 - Trabalhando com Diversas rotas.
+        -  B4 - Separando HTML do Javascript
+        -  B5 - Desafio: Implementar um roteador URL
