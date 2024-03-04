@@ -10,3 +10,9 @@ códigos escritos durante a leitura do livro "Aplicações web real time com Nod
         -  B3 - Trabalhando com Diversas rotas.
         -  B4 - Separando HTML do Javascript
         -  B5 - Desafio: Implementar um roteador URL
+
+    -- C: Por que o assincrono?
+        -  C1 - Desenvolvendo de forma assincrona
+        -  C2 - Assincronismo versus sincronismo
+        -  C3 - Entendendo o Event-loop
+        -  C4 - Evitando callbacks hell
