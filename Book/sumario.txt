@@ -16,3 +16,10 @@ códigos escritos durante a leitura do livro "Aplicações web real time com Nod
         -  C2 - Assincronismo versus sincronismo
         -  C3 - Entendendo o Event-loop
         -  C4 - Evitando callbacks hell
+
+    -- D: Iniciando com o Express:
+        -  D1 - Por que utilizar-lo?
+        -  D2 - Instalação e configuração
+        -  D3 - Criando um projeto de verdade
+        -  D4 - Gerando scaffold do projeto
+        -  D5 - Organizando os diretórios do projeto
